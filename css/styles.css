@@ -1,0 +1,33 @@
+body{
+  background-color: #222831;
+  color: #adabac;
+}
+h1{
+  color: #7b7b7b;
+}
+h2{
+  color:#66BFBF;
+}
+h3{
+  color:#7b7b7b;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  color: white;
+}
+textarea{
+  background-color: #1e1e1e;
+  color: #FFC914;
+}
+a:link{
+  color: #e3a600;
+}
+a:hover{
+  background-color: #1e1e1e;
+}
+a:visited{
+  color: #EEEEEE;
+}
